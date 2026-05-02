@@ -1,0 +1,240 @@
+{
+  "img_6": [
+    {
+      "label": "Gaussian  k=51  1-pass",
+      "avg_ms": 11.807,
+      "min_ms": 10.135,
+      "max_ms": 23.961,
+      "fps": 84.7,
+      "cpu_pct": 91.6,
+      "ram_delta_mb": 1.85
+    },
+    {
+      "label": "Gaussian  k=101 1-pass",
+      "avg_ms": 43.213,
+      "min_ms": 42.369,
+      "max_ms": 53.859,
+      "fps": 23.1,
+      "cpu_pct": 87.6,
+      "ram_delta_mb": 0.41
+    },
+    {
+      "label": "Gaussian  k=151 1-pass",
+      "avg_ms": 112.23,
+      "min_ms": 100.092,
+      "max_ms": 150.043,
+      "fps": 8.9,
+      "cpu_pct": 87.2,
+      "ram_delta_mb": 0.49
+    },
+    {
+      "label": "Gaussian  k=51  2-pass",
+      "avg_ms": 26.576,
+      "min_ms": 21.003,
+      "max_ms": 33.96,
+      "fps": 37.6,
+      "cpu_pct": 94.2,
+      "ram_delta_mb": 0.03
+    },
+    {
+      "label": "Gaussian  k=51  3-pass",
+      "avg_ms": 42.356,
+      "min_ms": 32.743,
+      "max_ms": 53.654,
+      "fps": 23.6,
+      "cpu_pct": 96.4,
+      "ram_delta_mb": 0.02
+    },
+    {
+      "label": "Box       k=51",
+      "avg_ms": 1.302,
+      "min_ms": 1.225,
+      "max_ms": 2.054,
+      "fps": 768.2,
+      "cpu_pct": 17.5,
+      "ram_delta_mb": 0.29
+    },
+    {
+      "label": "Box       k=101",
+      "avg_ms": 1.488,
+      "min_ms": 1.421,
+      "max_ms": 1.915,
+      "fps": 672.1,
+      "cpu_pct": 20.0,
+      "ram_delta_mb": 0.29
+    },
+    {
+      "label": "Median    k=21",
+      "avg_ms": 14.953,
+      "min_ms": 12.233,
+      "max_ms": 17.663,
+      "fps": 66.9,
+      "cpu_pct": 98.9,
+      "ram_delta_mb": 1.13
+    },
+    {
+      "label": "Median    k=51",
+      "avg_ms": 27.23,
+      "min_ms": 21.593,
+      "max_ms": 31.282,
+      "fps": 36.7,
+      "cpu_pct": 99.5,
+      "ram_delta_mb": 0.1
+    },
+    {
+      "label": "Pixelate  block=10",
+      "avg_ms": 0.843,
+      "min_ms": 0.804,
+      "max_ms": 1.141,
+      "fps": 1186.5,
+      "cpu_pct": 20.0,
+      "ram_delta_mb": 0.34
+    },
+    {
+      "label": "Pixelate  block=20",
+      "avg_ms": 0.81,
+      "min_ms": 0.781,
+      "max_ms": 1.094,
+      "fps": 1234.8,
+      "cpu_pct": 25.0,
+      "ram_delta_mb": 0.03
+    },
+    {
+      "label": "StackBlur k=51",
+      "avg_ms": 1.779,
+      "min_ms": 1.469,
+      "max_ms": 4.139,
+      "fps": 562.2,
+      "cpu_pct": 85.5,
+      "ram_delta_mb": 0.02
+    },
+    {
+      "label": "StackBlur k=101",
+      "avg_ms": 2.236,
+      "min_ms": 1.585,
+      "max_ms": 2.717,
+      "fps": 447.2,
+      "cpu_pct": 76.2,
+      "ram_delta_mb": 0.02
+    }
+  ],
+  "img_7": [
+    {
+      "label": "Gaussian  k=51  1-pass",
+      "avg_ms": 3.659,
+      "min_ms": 3.009,
+      "max_ms": 4.656,
+      "fps": 273.3,
+      "cpu_pct": 90.0,
+      "ram_delta_mb": 0.02
+    },
+    {
+      "label": "Gaussian  k=101 1-pass",
+      "avg_ms": 10.371,
+      "min_ms": 8.786,
+      "max_ms": 13.376,
+      "fps": 96.4,
+      "cpu_pct": 93.0,
+      "ram_delta_mb": 0.02
+    },
+    {
+      "label": "Gaussian  k=151 1-pass",
+      "avg_ms": 17.424,
+      "min_ms": 13.507,
+      "max_ms": 21.976,
+      "fps": 57.4,
+      "cpu_pct": 95.9,
+      "ram_delta_mb": 0.02
+    },
+    {
+      "label": "Gaussian  k=51  2-pass",
+      "avg_ms": 7.952,
+      "min_ms": 5.951,
+      "max_ms": 11.912,
+      "fps": 125.8,
+      "cpu_pct": 97.0,
+      "ram_delta_mb": 0.02
+    },
+    {
+      "label": "Gaussian  k=51  3-pass",
+      "avg_ms": 11.003,
+      "min_ms": 8.836,
+      "max_ms": 13.573,
+      "fps": 90.9,
+      "cpu_pct": 98.3,
+      "ram_delta_mb": 0.02
+    },
+    {
+      "label": "Box       k=51",
+      "avg_ms": 0.36,
+      "min_ms": 0.337,
+      "max_ms": 0.618,
+      "fps": 2778.8,
+      "cpu_pct": 14.3,
+      "ram_delta_mb": 0.02
+    },
+    {
+      "label": "Box       k=101",
+      "avg_ms": 0.451,
+      "min_ms": 0.405,
+      "max_ms": 0.595,
+      "fps": 2218.8,
+      "cpu_pct": 10.5,
+      "ram_delta_mb": 0.15
+    },
+    {
+      "label": "Median    k=21",
+      "avg_ms": 1.618,
+      "min_ms": 1.259,
+      "max_ms": 2.338,
+      "fps": 618.0,
+      "cpu_pct": 84.2,
+      "ram_delta_mb": 0.03
+    },
+    {
+      "label": "Median    k=51",
+      "avg_ms": 4.555,
+      "min_ms": 3.68,
+      "max_ms": 6.015,
+      "fps": 219.5,
+      "cpu_pct": 91.0,
+      "ram_delta_mb": 0.05
+    },
+    {
+      "label": "Pixelate  block=10",
+      "avg_ms": 0.265,
+      "min_ms": 0.246,
+      "max_ms": 0.431,
+      "fps": 3770.8,
+      "cpu_pct": 5.0,
+      "ram_delta_mb": 0.02
+    },
+    {
+      "label": "Pixelate  block=20",
+      "avg_ms": 0.267,
+      "min_ms": 0.243,
+      "max_ms": 0.418,
+      "fps": 3750.1,
+      "cpu_pct": 5.3,
+      "ram_delta_mb": 0.02
+    },
+    {
+      "label": "StackBlur k=51",
+      "avg_ms": 0.4,
+      "min_ms": 0.35,
+      "max_ms": 0.733,
+      "fps": 2499.0,
+      "cpu_pct": 50.0,
+      "ram_delta_mb": 0.02
+    },
+    {
+      "label": "StackBlur k=101",
+      "avg_ms": 0.386,
+      "min_ms": 0.302,
+      "max_ms": 0.64,
+      "fps": 2592.7,
+      "cpu_pct": 50.0,
+      "ram_delta_mb": 0.02
+    }
+  ]
+}
