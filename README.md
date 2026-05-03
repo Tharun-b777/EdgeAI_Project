@@ -201,3 +201,7 @@ Parts of this project including the blur benchmarking script, augmentation scrip
 - [TFLite Runtime](https://www.tensorflow.org/lite/guide/python)
 - [Picamera2 Documentation](https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf)
 - [OpenCV Blur Methods](https://docs.opencv.org/4.x/d4/d13/tutorial_py_filtering.html)
+
+---
+
+### Video Presentation :- https://indianinstituteofscience-my.sharepoint.com/:f:/g/personal/mprasanna_iisc_ac_in/IgB0AUifHJHpQpazl4oW8iO9AbqCGy9n4O094sr7lrIEORo?e=OvjB5e

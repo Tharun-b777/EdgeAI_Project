@@ -340,3 +340,7 @@ and used significantly less CPU.
 12. ONNX Runtime Documentation. https://onnxruntime.ai/docs/
 13. Picamera2 Documentation. https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf
 14. Raspberry Pi 5 Documentation. https://www.raspberrypi.com/products/raspberry-pi-5/
+
+---
+
+### Video Presentation :- https://indianinstituteofscience-my.sharepoint.com/:f:/g/personal/mprasanna_iisc_ac_in/IgB0AUifHJHpQpazl4oW8iO9AbqCGy9n4O094sr7lrIEORo?e=OvjB5e
